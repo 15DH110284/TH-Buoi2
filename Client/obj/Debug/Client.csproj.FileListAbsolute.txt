@@ -1,0 +1,10 @@
+C:\Users\Thuan\Desktop\Năm 3\LTM\LTM-buoi2\Client\bin\Debug\Client.exe.config
+C:\Users\Thuan\Desktop\Năm 3\LTM\LTM-buoi2\Client\bin\Debug\Client.exe
+C:\Users\Thuan\Desktop\Năm 3\LTM\LTM-buoi2\Client\bin\Debug\Client.pdb
+C:\Users\Thuan\Desktop\Năm 3\LTM\LTM-buoi2\Client\obj\Debug\Client.Form1.resources
+C:\Users\Thuan\Desktop\Năm 3\LTM\LTM-buoi2\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Thuan\Desktop\Năm 3\LTM\LTM-buoi2\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Thuan\Desktop\Năm 3\LTM\LTM-buoi2\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Thuan\Desktop\Năm 3\LTM\LTM-buoi2\Client\obj\Debug\Client.exe
+C:\Users\Thuan\Desktop\Năm 3\LTM\LTM-buoi2\Client\obj\Debug\Client.pdb
+C:\Users\Thuan\Desktop\Năm 3\LTM\LTM-buoi2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
